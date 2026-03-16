@@ -1,0 +1,301 @@
+{
+  "cidades": [
+    {
+      "nome": "Aracaju",
+      "estado": "Sergipe",
+      "uf": "SE",
+      "regiao": "Nordeste",
+      "populacao": 672614,
+      "area": 181.8,
+      "pib": 18400000000,
+      "pontos_turisticos": 45,
+      "idh": 0.770
+    },
+    {
+      "nome": "Belém",
+      "estado": "Pará",
+      "uf": "PA",
+      "regiao": "Norte",
+      "populacao": 1499000,
+      "area": 1059.4,
+      "pib": 33000000000,
+      "pontos_turisticos": 90,
+      "idh": 0.746
+    },
+    {
+      "nome": "Belo Horizonte",
+      "estado": "Minas Gerais",
+      "uf": "MG",
+      "regiao": "Sudeste",
+      "populacao": 2522000,
+      "area": 331.4,
+      "pib": 95000000000,
+      "pontos_turisticos": 140,
+      "idh": 0.810
+    },
+    {
+      "nome": "Boa Vista",
+      "estado": "Roraima",
+      "uf": "RR",
+      "regiao": "Norte",
+      "populacao": 419652,
+      "area": 5687.0,
+      "pib": 7800000000,
+      "pontos_turisticos": 25,
+      "idh": 0.752
+    },
+    {
+      "nome": "Brasília",
+      "estado": "Distrito Federal",
+      "uf": "DF",
+      "regiao": "Centro-Oeste",
+      "populacao": 3055000,
+      "area": 5802.0,
+      "pib": 265000000000,
+      "pontos_turisticos": 120,
+      "idh": 0.824
+    },
+    {
+      "nome": "Campo Grande",
+      "estado": "Mato Grosso do Sul",
+      "uf": "MS",
+      "regiao": "Centro-Oeste",
+      "populacao": 906126,
+      "area": 8092.0,
+      "pib": 29000000000,
+      "pontos_turisticos": 60,
+      "idh": 0.784
+    },
+    {
+      "nome": "Cuiabá",
+      "estado": "Mato Grosso",
+      "uf": "MT",
+      "regiao": "Centro-Oeste",
+      "populacao": 623614,
+      "area": 3495.0,
+      "pib": 23000000000,
+      "pontos_turisticos": 55,
+      "idh": 0.785
+    },
+    {
+      "nome": "Curitiba",
+      "estado": "Paraná",
+      "uf": "PR",
+      "regiao": "Sul",
+      "populacao": 1948000,
+      "area": 435.0,
+      "pib": 92000000000,
+      "pontos_turisticos": 160,
+      "idh": 0.823
+    },
+    {
+      "nome": "Florianópolis",
+      "estado": "Santa Catarina",
+      "uf": "SC",
+      "regiao": "Sul",
+      "populacao": 516524,
+      "area": 675.4,
+      "pib": 21000000000,
+      "pontos_turisticos": 110,
+      "idh": 0.847
+    },
+    {
+      "nome": "Fortaleza",
+      "estado": "Ceará",
+      "uf": "CE",
+      "regiao": "Nordeste",
+      "populacao": 2687000,
+      "area": 314.0,
+      "pib": 67000000000,
+      "pontos_turisticos": 130,
+      "idh": 0.754
+    },
+    {
+      "nome": "Goiânia",
+      "estado": "Goiás",
+      "uf": "GO",
+      "regiao": "Centro-Oeste",
+      "populacao": 1536000,
+      "area": 728.0,
+      "pib": 54000000000,
+      "pontos_turisticos": 110,
+      "idh": 0.799
+    },
+    {
+      "nome": "João Pessoa",
+      "estado": "Paraíba",
+      "uf": "PB",
+      "regiao": "Nordeste",
+      "populacao": 823785,
+      "area": 211.5,
+      "pib": 19000000000,
+      "pontos_turisticos": 80,
+      "idh": 0.783
+    },
+    {
+      "nome": "Macapá",
+      "estado": "Amapá",
+      "uf": "AP",
+      "regiao": "Norte",
+      "populacao": 512902,
+      "area": 6407.0,
+      "pib": 7500000000,
+      "pontos_turisticos": 30,
+      "idh": 0.740
+    },
+    {
+      "nome": "Maceió",
+      "estado": "Alagoas",
+      "uf": "AL",
+      "regiao": "Nordeste",
+      "populacao": 1025000,
+      "area": 511.0,
+      "pib": 20000000000,
+      "pontos_turisticos": 85,
+      "idh": 0.735
+    },
+    {
+      "nome": "Manaus",
+      "estado": "Amazonas",
+      "uf": "AM",
+      "regiao": "Norte",
+      "populacao": 2219000,
+      "area": 11401.0,
+      "pib": 93000000000,
+      "pontos_turisticos": 80,
+      "idh": 0.737
+    },
+    {
+      "nome": "Natal",
+      "estado": "Rio Grande do Norte",
+      "uf": "RN",
+      "regiao": "Nordeste",
+      "populacao": 896708,
+      "area": 167.3,
+      "pib": 18000000000,
+      "pontos_turisticos": 95,
+      "idh": 0.763
+    },
+    {
+      "nome": "Palmas",
+      "estado": "Tocantins",
+      "uf": "TO",
+      "regiao": "Norte",
+      "populacao": 313349,
+      "area": 2218.9,
+      "pib": 8500000000,
+      "pontos_turisticos": 40,
+      "idh": 0.788
+    },
+    {
+      "nome": "Porto Alegre",
+      "estado": "Rio Grande do Sul",
+      "uf": "RS",
+      "regiao": "Sul",
+      "populacao": 1485000,
+      "area": 496.0,
+      "pib": 88000000000,
+      "pontos_turisticos": 120,
+      "idh": 0.805
+    },
+    {
+      "nome": "Porto Velho",
+      "estado": "Rondônia",
+      "uf": "RO",
+      "regiao": "Norte",
+      "populacao": 548952,
+      "area": 34082.0,
+      "pib": 14000000000,
+      "pontos_turisticos": 35,
+      "idh": 0.736
+    },
+    {
+      "nome": "Recife",
+      "estado": "Pernambuco",
+      "uf": "PE",
+      "regiao": "Nordeste",
+      "populacao": 1653000,
+      "area": 218.0,
+      "pib": 53000000000,
+      "pontos_turisticos": 140,
+      "idh": 0.772
+    },
+    {
+      "nome": "Rio Branco",
+      "estado": "Acre",
+      "uf": "AC",
+      "regiao": "Norte",
+      "populacao": 419518,
+      "area": 8835.0,
+      "pib": 6800000000,
+      "pontos_turisticos": 25,
+      "idh": 0.727
+    },
+    {
+      "nome": "Rio de Janeiro",
+      "estado": "Rio de Janeiro",
+      "uf": "RJ",
+      "regiao": "Sudeste",
+      "populacao": 6748000,
+      "area": 1200.0,
+      "pib": 364000000000,
+      "pontos_turisticos": 180,
+      "idh": 0.799
+    },
+    {
+      "nome": "Salvador",
+      "estado": "Bahia",
+      "uf": "BA",
+      "regiao": "Nordeste",
+      "populacao": 2887000,
+      "area": 693.0,
+      "pib": 62000000000,
+      "pontos_turisticos": 150,
+      "idh": 0.759
+    },
+    {
+      "nome": "São Luís",
+      "estado": "Maranhão",
+      "uf": "MA",
+      "regiao": "Nordeste",
+      "populacao": 1108000,
+      "area": 827.0,
+      "pib": 25000000000,
+      "pontos_turisticos": 80,
+      "idh": 0.756
+    },
+    {
+      "nome": "São Paulo",
+      "estado": "São Paulo",
+      "uf": "SP",
+      "regiao": "Sudeste",
+      "populacao": 12300000,
+      "area": 1521.0,
+      "pib": 699000000000,
+      "pontos_turisticos": 250,
+      "idh": 0.805
+    },
+    {
+      "nome": "Teresina",
+      "estado": "Piauí",
+      "uf": "PI",
+      "regiao": "Nordeste",
+      "populacao": 868075,
+      "area": 1391.0,
+      "pib": 17000000000,
+      "pontos_turisticos": 55,
+      "idh": 0.751
+    },
+    {
+      "nome": "Vitória",
+      "estado": "Espírito Santo",
+      "uf": "ES",
+      "regiao": "Sudeste",
+      "populacao": 369534,
+      "area": 98.5,
+      "pib": 23000000000,
+      "pontos_turisticos": 70,
+      "idh": 0.845
+    }
+  ]
+}
